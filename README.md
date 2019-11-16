@@ -6,17 +6,27 @@ manipulating Coq terms and developing certified plugins
 (i.e. translations, compilers or tactics) in Coq.
 
 **Quick jump**
-- [Installing](#installation-instructions)
+- [Summary](#summary)
 - [Documentation](#documentation)
 - [Papers](#papers)
 - [Team](#team--credits)
+- [Installing](#installation-instructions)
+
+News
+====
+
+["Coq Coq Correct! Verification of Type Checking and Erasure for Coq, in Coq"](CoqCoqCorrect),
+Matthieu Sozeau, Simon Boulier, Yannick Forster, Nicolas Tabareau and Théo Winterhalter was accepted at POPL 2020.
+
+Project Summary
+===============
 
 At the center of this project is the Template-Coq quoting library for
 Coq. The project currently has a single repository extending
 Template-Coq with additional features:
 
 [Template-Coq](template-coq/theories)
-------------
+-------------
 
 Template-Coq is a quoting library for [Coq](http://coq.inria.fr). It
 takes `Coq` terms and constructs a representation of their syntax tree as
@@ -136,6 +146,10 @@ a fresh level when `Strict Unquote Universe Mode` is off.
 Papers
 ======
 
+- ["Coq Coq Correct! Verification of Type Checking and Erasure for Coq, in Coq"](CoqCoqCorrect)
+  Matthieu Sozeau, Simon Boulier, Yannick Forster, Nicolas Tabareau
+  and Théo Winterhalter. Accepted at POPL 2020.
+  
 - ["Coq Coq Codet! Towards a Verified Toolchain for Coq in
   MetaCoq"](http://www.irif.fr/~sozeau/research/publications/Coq_Coq_Codet-CoqWS19.pdf)
   Matthieu Sozeau, Simon Boulier, Yannick Forster, Nicolas Tabareau and
@@ -145,10 +159,6 @@ Papers
   2019](https://staff.aist.go.jp/reynald.affeldt/coq2019/), September
   2019.
 
-- ["Coq Coq Correct! Verification of Type Checking and Erasure for Coq, in Coq"](https://www.irif.fr/~sozeau/research/publications/drafts/Coq_Coq_Correct.pdf).
-  Matthieu Sozeau, Simon Boulier, Yannick Forster, Nicolas Tabareau
-  and Théo Winterhalter. Submitted, July 2019.
-  
 - [A certifying extraction with time bounds from Coq to call-by-value λ-calculus](https://www.ps.uni-saarland.de/Publications/documents/ForsterKunze_2019_Certifying-extraction.pdf).
   Yannick Forster and Fabian Kunze.
   ITP 2019.

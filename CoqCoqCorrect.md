@@ -9,7 +9,7 @@ Coq Coq Correct! Verification of Type Checking and Erasure for Coq, in Coq
 ===============
 
 Matthieu Sozeau, Simon Boulier, Yannick Forster, Nicolas Tabareau, and Théo Winterhalter. 2020. 
-[Coq Coq Correct! Verification of Type Checking and Erasure for Coq, in Coq](https://www.irif.fr/~sozeau/research/publications/Coq_Coq_Correct-POPL20.pdf) 
+[Coq Coq Correct! Verification of Type Checking and Erasure for Coq, in Coq](https://www.irif.fr/~sozeau/research/publications/drafts/Coq_Coq_Correct.pdf) 
 Proc. ACM Program. Lang. 4, POPL, Article 8 (January 2020), 28 pages. [DOI](https://doi.org/10.1145/3371076)
 
 This article presents the formalization of the metatheory, typechecker and erasure that are part of the MetaCoq package.
