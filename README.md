@@ -159,17 +159,17 @@ Papers
   2019](https://staff.aist.go.jp/reynald.affeldt/coq2019/), September
   2019.
 
+- ["The MetaCoq Project"](https://www.irif.fr/~sozeau/research/publications/drafts/The_MetaCoq_Project.pdf)
+  Matthieu Sozeau, Abhishek Anand, Simon Boulier, Cyril Cohen, Yannick Forster, Fabian Kunze,
+  Gregory Malecha, Nicolas Tabareau and Théo Winterhalter.
+  Extended version of the ITP 2018 paper. Submitted, September 2019.
+
+  This includes a full documentation of the Template Monad and the typing rules of PCUIC.
+
 - [A certifying extraction with time bounds from Coq to call-by-value λ-calculus](https://www.ps.uni-saarland.de/Publications/documents/ForsterKunze_2019_Certifying-extraction.pdf).
   Yannick Forster and Fabian Kunze.
   ITP 2019.
   [Example](https://github.com/uds-psl/certifying-extraction-with-time-bounds/blob/master/Tactics/Extract.v)
-
-- ["The MetaCoq Project"](https://www.irif.fr/~sozeau/research/publications/drafts/The_MetaCoq_Project.pdf)
-  Matthieu Sozeau, Abhishek Anand, Simon Boulier, Cyril Cohen, Yannick Forster, Fabian Kunze,
-  Gregory Malecha, Nicolas Tabareau and Théo Winterhalter.
-  Extended version of the ITP 2018 paper. Submitted, March 2019.
-
-  This includes a full documentation of the Template Monad.
 
 - ["Towards Certified Meta-Programming with Typed Template-Coq"](https://hal.archives-ouvertes.fr/hal-01809681/document)
   Abhishek Anand, Simon Boulier, Cyril Cohen, Matthieu Sozeau and Nicolas Tabareau.
