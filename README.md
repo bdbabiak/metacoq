@@ -15,7 +15,7 @@ manipulating Coq terms and developing certified plugins
 News
 ====
 
-["Coq Coq Correct! Verification of Type Checking and Erasure for Coq, in Coq"](CoqCoqCorrect),
+["Coq Coq Correct! Verification of Type Checking and Erasure for Coq, in Coq"](coqcoqcorrect),
 Matthieu Sozeau, Simon Boulier, Yannick Forster, Nicolas Tabareau and Théo Winterhalter was accepted at POPL 2020.
 
 Project Summary
@@ -146,7 +146,7 @@ a fresh level when `Strict Unquote Universe Mode` is off.
 Papers
 ======
 
-- ["Coq Coq Correct! Verification of Type Checking and Erasure for Coq, in Coq"](CoqCoqCorrect)
+- ["Coq Coq Correct! Verification of Type Checking and Erasure for Coq, in Coq"](coqcoqcorrect)
   Matthieu Sozeau, Simon Boulier, Yannick Forster, Nicolas Tabareau
   and Théo Winterhalter. Accepted at POPL 2020.
   
